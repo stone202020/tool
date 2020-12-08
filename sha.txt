@@ -1,0 +1,10 @@
+MybatisCodeHelperNew-2.8.1-191-201
+sha1sum: b2c9f88ae3caf09382c7f00907bc132e5151002b
+
+
+
+1.下载已破解的插件压缩包，一定注意校验sha1sum！！！
+
+2.在IDEA中本地安装插件
+
+3.激活方法（自2.7.3）：IDEA顶部菜单：Tools -> MybatisCodeHelper -> Activation -> OfflineActivation，在offline key框输入任意字符串
